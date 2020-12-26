@@ -1,2 +1,2 @@
-cd openCV/textDetect
+cd openCV/
 python3 main.py

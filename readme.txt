@@ -13,3 +13,6 @@ heroku container:login
 
 # push the code to the heroku container
 heroku container:push web
+
+# release the app
+heroku container:release web
